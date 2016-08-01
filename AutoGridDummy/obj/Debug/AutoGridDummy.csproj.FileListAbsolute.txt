@@ -1,0 +1,11 @@
+c:\users\buildserver1\documents\visual studio 2013\Projects\AutoGridDummy\AutoGridDummy\obj\Debug\AutoGridDummy.csprojResolveAssemblyReference.cache
+c:\users\buildserver1\documents\visual studio 2013\Projects\AutoGridDummy\AutoGridDummy\obj\Debug\AutoGridDummy.csproj.GenerateResource.Cache
+c:\users\buildserver1\documents\visual studio 2013\Projects\AutoGridDummy\AutoGridDummy\bin\Debug\AutoGrid.exe.config
+c:\users\buildserver1\documents\visual studio 2013\Projects\AutoGridDummy\AutoGridDummy\bin\Debug\AutoGrid.exe
+c:\users\buildserver1\documents\visual studio 2013\Projects\AutoGridDummy\AutoGridDummy\bin\Debug\AutoGrid.pdb
+c:\users\buildserver1\documents\visual studio 2013\Projects\AutoGridDummy\AutoGridDummy\obj\Debug\AutoGrid_KANDA.Properties.Resources.resources
+c:\users\buildserver1\documents\visual studio 2013\Projects\AutoGridDummy\AutoGridDummy\obj\Debug\AutoGrid.exe
+c:\users\buildserver1\documents\visual studio 2013\Projects\AutoGridDummy\AutoGridDummy\obj\Debug\AutoGrid.pdb
+c:\users\buildserver1\documents\visual studio 2013\Projects\AutoGridDummy\AutoGridDummy\obj\Debug\AutoGrid_KANDA.AdvancedStage.resources
+c:\users\buildserver1\documents\visual studio 2013\Projects\AutoGridDummy\AutoGridDummy\obj\Debug\AutoGrid_KANDA.AdvancedWell.resources
+c:\users\buildserver1\documents\visual studio 2013\Projects\AutoGridDummy\AutoGridDummy\obj\Debug\AutoGrid_KANDA.AutoGrid.resources
